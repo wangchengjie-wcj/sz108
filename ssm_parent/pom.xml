@@ -10,7 +10,8 @@
     <!--    父工程的打包方式-->
 <!-- 父工程的打包方式-->
     <!--    父工程的打包方式-->
-<!-- 父工程的打包方式-->    <packaging>pom</packaging>
+<!-- 父工程的打包方式-->    
+<packaging>pom</packaging>
 
     <modules>
         <module>ssm_model</module>
